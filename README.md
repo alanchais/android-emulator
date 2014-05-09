@@ -60,3 +60,18 @@ Open terminal and run
 Might take a minute
 
 If you get 'Success', the chrome app icon should appear in your emulator.
+
+Remote Debugging on Android Emulator with Chrome
+-------------
+
+Open chrome in your emulator, go to Settings > Developer Tools
+
+Check 'Enable USB Web Debugging'
+
+Open Chrome on your desktop. Go to Settings (hamburger icon) > Tools > Inspect Devices
+
+Make sure 'Discover USB devices' is checked
+
+Open terminal and run `adb forward tcp:9222 localabstract:chrome_devtools_remote`
+
+If you go back to chrome on your desktop, you should see your Android SDK show up, with your tabs listed below to inspect.
