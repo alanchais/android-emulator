@@ -16,7 +16,7 @@ where `<path_to_android_sdk>` is to be replaced with the path to your SDK. For e
 Open terminal, then run
 `android sdk`
 
-You might need to install/update Java, after that just run `android sdk` again
+It might prompt you to install/update Java, after that just run `android sdk` again
 
 Refer to the screenshot for what you want/need.
 ![SDK Settings](ss-sdk.jpg "SDK Settings")
