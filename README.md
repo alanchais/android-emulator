@@ -1,7 +1,5 @@
-android-emulator
-================
-
 Installing Android Emulator with Intel HAXM and Chrome app
+================
 
 
 [Install the Android SDK Bundle](http://developer.android.com/sdk/index.htm)
