@@ -19,6 +19,7 @@ Open terminal, then run
 You might need to install/update Java, after that just run `android sdk` again
 
 Refer to the screenshot for what you want/need.
+![SDK Settings](ss-sdk.jpg "SDK Settings")
 
 Accept license & install for all packages. (Intel HAXM is a hardware-assisted virtualization engine to speed up Android app emulation, it's nice).
 
@@ -40,6 +41,7 @@ In terminal, run
 Create a new AVD
 
 Use the settings in screenshot
+![AVD Settings](ss-avd.jpg "AVD Settings")
 
 Start it
 
