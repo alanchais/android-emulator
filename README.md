@@ -2,7 +2,7 @@ Installing Android Emulator with Intel HAXM and Chrome app
 ================
 
 
-[Install the Android SDK Bundle](http://developer.android.com/sdk/index.html)
+[Download the Android SDK Bundle](http://developer.android.com/sdk/index.html)
 
 Unzip after download
 
